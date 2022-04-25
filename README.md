@@ -1,4 +1,4 @@
-# Bu Wen Jin <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+Wen Jin <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 -  **Currently :** A university student <img src="https://media.giphy.com/media/g01P1Z9IjHtsf5TjQm/giphy.gif" width="30">
 -  **Learning :** Full-Stack Development <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25">
